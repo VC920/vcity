@@ -1,3 +1,0 @@
-/home/vc/Documents/vcity/build/CMakeFiles/vcity.dir
-/home/vc/Documents/vcity/build/CMakeFiles/edit_cache.dir
-/home/vc/Documents/vcity/build/CMakeFiles/rebuild_cache.dir
