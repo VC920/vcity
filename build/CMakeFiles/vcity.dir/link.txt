@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/vcity.dir/link.d CMakeFiles/vcity.dir/code/game/main.c.o CMakeFiles/vcity.dir/code/game/game.c.o CMakeFiles/vcity.dir/code/map/map.c.o CMakeFiles/vcity.dir/code/vehicle/vehicle.c.o CMakeFiles/vcity.dir/code/player/player.c.o CMakeFiles/vcity.dir/code/weapon/bullet.c.o -o vcity  -lraylib -lm
